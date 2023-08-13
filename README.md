@@ -53,7 +53,7 @@ If you are interested in contributing to this project, please follow these guide
 
 ## Author
 
-[Sagnik Jana](https://www.linkedin.com/in/sagnik-jana-3452771ba/)
+[Bikash Sarkar](https://www.linkedin.com/in/bikash-sarkar-487892247/)
 
 <!-- ## License
 
