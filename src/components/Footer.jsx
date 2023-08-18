@@ -3,7 +3,7 @@ import './footer.css'
 function Footer() {
   return (
     <footer>
-      <p>© 2021 Bikash Sarkar</p>
+      <p>© 2021_Bikash Sarkar</p>
     </footer>
   );
 }
